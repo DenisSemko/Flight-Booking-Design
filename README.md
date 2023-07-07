@@ -1,7 +1,7 @@
 <img src="https://github.com/DenisSemko/Flight-Booking-Design/assets/53062219/14861663-2d47-44a5-8ebf-167734d6f0ea" alt="logo" title="logo" align="right" height="100" />
 
 # FlightBooking
-> Creative SPA Web Design for booking flights!
+> Creative responsive SPA Web Design for booking flights!
 
 ## Technologies Used
 - React.js
